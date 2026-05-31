@@ -1,0 +1,19 @@
+# Dataset files — too large for GitHub, download from Kaggle
+News_dataset/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated output images (optional — remove lines below to include them)
+# model_comparison.png
+# confusion_matrices.png
